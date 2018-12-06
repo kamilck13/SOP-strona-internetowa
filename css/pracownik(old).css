@@ -1,0 +1,15 @@
+h1{
+	margin-bottom:70px;
+}
+
+#size{
+	font-size: 30px;
+}
+
+body {
+	
+	background-size: cover;
+    background-repeat: none;
+    -webkit-scrollbar { 
+     display: none; 
+ }
